@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype1
+*takes keyboard inputs and move the player with them
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

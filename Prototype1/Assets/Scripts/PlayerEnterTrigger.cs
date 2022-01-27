@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype1
+*checks if the player is toching an object with the "TriggerZone" tag
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 public class PlayerEnterTrigger : MonoBehaviour

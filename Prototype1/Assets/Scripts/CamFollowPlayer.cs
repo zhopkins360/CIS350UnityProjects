@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype1
+*make the camera follow the player
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

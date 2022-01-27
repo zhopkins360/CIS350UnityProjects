@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype1
+*checks the y value to see if the object has dropped below -1
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

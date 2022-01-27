@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype1
+*manages the text on screen and when the player wants to reset
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

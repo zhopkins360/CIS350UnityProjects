@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype1
+*adds to the score only once when the player collides with it
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
