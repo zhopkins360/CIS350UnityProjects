@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Challenge1
+*makes the propeller on the plane spin
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

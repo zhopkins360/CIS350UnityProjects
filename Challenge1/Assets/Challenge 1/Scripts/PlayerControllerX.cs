@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Challenge1
+*controlls the movment of the player
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

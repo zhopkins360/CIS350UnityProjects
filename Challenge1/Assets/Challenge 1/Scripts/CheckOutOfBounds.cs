@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Challenge1
+*checks the pos of the plane and make the gameOver var true if the player gose out of the y bounds
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

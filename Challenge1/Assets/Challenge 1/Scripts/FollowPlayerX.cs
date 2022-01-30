@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Challenge1
+*sets the object an offset distance from the players current pos
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
