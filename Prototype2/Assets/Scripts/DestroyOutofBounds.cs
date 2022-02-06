@@ -15,7 +15,8 @@ public class DestroyOutofBounds : MonoBehaviour
         }
         if(transform.position.z < bottomBound)
         {
-            Debug.Log("GameOver");
+            //grad the health system script
+            GameObject.FindGameObjectWithTag("HealthSystem").GetComponent<HealthSystem>().TakeDamage();
             Destroy(gameObject);
         }
     }
