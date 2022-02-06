@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype2
+*lets the player shoot a given prefab from it's current position
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

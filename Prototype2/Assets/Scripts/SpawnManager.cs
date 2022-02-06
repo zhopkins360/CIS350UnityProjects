@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype2
+*manages the spwaning of random prefab objects given 
+*also randomizes the delay from when they are spawned
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype2
+*checks if a object moves out of the z bounds if it does destroy it
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

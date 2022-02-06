@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype2
+*moves and object forward a given speed
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

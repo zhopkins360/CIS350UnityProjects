@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype2
+*controlls the player movment and the bounds of how far it can go
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

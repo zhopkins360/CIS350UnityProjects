@@ -1,4 +1,11 @@
-﻿//This script is based on https://www.youtube.com/watch?v=3uyolYVsiWc
+﻿/*
+*Zackary Hopkins
+*Prototype2
+*healthsystem script given to us by prof.owens
+*it keeps track of current health and max health and put it in to sprites 
+*it then takes care of when a game over happens
+*/
+//This script is based on https://www.youtube.com/watch?v=3uyolYVsiWc
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
