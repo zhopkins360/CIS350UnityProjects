@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype3
+*controlls if the players enters the zone and gives them a point
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

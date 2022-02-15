@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype3
+*helps the background continusly repeat
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

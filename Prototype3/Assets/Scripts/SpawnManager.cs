@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype3
+*controlls the spawning of road barricades
+*
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

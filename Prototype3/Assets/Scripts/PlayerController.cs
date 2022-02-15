@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype3
+*controlls the players jumping sounds and animation
+*also controlls the player collison effects
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

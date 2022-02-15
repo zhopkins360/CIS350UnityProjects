@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+*Zackary Hopkins
+*Prototype3
+*Moves the object it is in to the left then destroys 
+*it once out of bounds if it is an obstacal
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
