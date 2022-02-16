@@ -1,6 +1,6 @@
 ﻿/*
 *Zackary Hopkins
-*Prototype3
+*Challenge3
 *Controlls the ballons floating, sounds and partical effects
 *also deals with collisons of objects with the player
 */
