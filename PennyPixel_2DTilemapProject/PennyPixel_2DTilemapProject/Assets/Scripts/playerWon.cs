@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Zackary Hopkins 
+ * Assignment 5A
+ * checks if the player enters the trigger zone and changes won bool
+ * 
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

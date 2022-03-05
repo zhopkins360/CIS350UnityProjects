@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Zackary Hopkins 
+ * Assignment 5A
+ * checks if the player touches a get and then adds to their score
+ * 
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,5 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+/*
+ * Zackary Hopkins 
+ * Assignment 5A
+ * keeps track of the score and won vars
+ * also updates the UI text box
+ */
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
