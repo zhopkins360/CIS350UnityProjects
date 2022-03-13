@@ -1,3 +1,9 @@
+/*
+*Zackary Hopkins
+*Assignment5B
+*allows the player to shoot raycast gun 
+*
+*/
 using System;
 using System.Collections;
 using System.Collections.Generic;

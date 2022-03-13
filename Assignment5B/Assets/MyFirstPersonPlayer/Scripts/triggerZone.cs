@@ -1,3 +1,9 @@
+/*
+*Zackary Hopkins
+*Assignment5B
+*when they player collides with this it shows text saying you win
+*
+*/
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

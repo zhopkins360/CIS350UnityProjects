@@ -1,3 +1,9 @@
+/*
+*Zackary Hopkins
+*Assignment5B
+*Takes mouse input and moves the camera
+*
+*/
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

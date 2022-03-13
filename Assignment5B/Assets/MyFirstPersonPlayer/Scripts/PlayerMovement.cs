@@ -1,3 +1,9 @@
+/*
+*Zackary Hopkins
+*Assignment5B
+*allows the players to move and jump
+*
+*/
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
